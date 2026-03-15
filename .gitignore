@@ -207,8 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # Data
-*.csv
-*.json
+Data/Raw/
+Data/Derived/
 
 # IDE 
 
