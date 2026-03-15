@@ -1,3 +1,7 @@
 pandas
 plotly
 playwright
+reverse_geocoder
+
+matplotlib
+pyogrio
