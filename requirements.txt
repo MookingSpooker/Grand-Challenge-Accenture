@@ -1,7 +1,10 @@
-pandas
-plotly
-playwright
-reverse_geocoder
-
+h5py
 matplotlib
+numpy
+pandas
+Pillow
+playwright
+plotly
+geopandas
 pyogrio
+statsmodels
