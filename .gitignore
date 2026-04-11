@@ -12,5 +12,5 @@ __pycache__/
 *.pyc
 
 # data files
-assets/data/derived/
-assets/data/raw/
+data/derived/
+data/raw/
