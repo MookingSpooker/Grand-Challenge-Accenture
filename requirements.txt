@@ -8,5 +8,6 @@ plotly
 geopandas
 pyogrio
 statsmodels
-
-ipython
+huggingface-hub
+nbformat>=5.0
+ipython>=8.0
