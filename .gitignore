@@ -14,6 +14,7 @@ __pycache__/
 # data files
 data/derived/
 data/raw/
+data/preprocessed/
 
 # graphs
 assets/graphs/
