@@ -13,3 +13,4 @@ nbformat>=5.0
 ipython>=8.0
 shapely
 xgboost
+scikit-optimize
