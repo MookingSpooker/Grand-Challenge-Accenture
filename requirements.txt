@@ -16,5 +16,3 @@ xgboost
 scikit-optimize
 scikit-learn
 joblib
-xarray
-netCDF4
